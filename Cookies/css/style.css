@@ -1,23 +1,51 @@
-div {
-    background-image: url(images/background\ for\ fish.jpg);
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center;
-  }
+/* 
+  h1 {
+    color: rgb(26, 124, 209);
+    top: 50px;
+    right: 60px;
+    text-shadow: 1px 1px 1px red, 2px 2px 1px red;
+    
+  } */
   
-  .main_content{
+  body {
+    background-color: rgb(248, 248, 248);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 0px 100px 0px 100px;
+  }
+
+  .website-header {
+justify-content: center;
+color: rgb(26, 124, 209);
+padding: 0px 0px 0px 400px;
+text-shadow: 1px 1px 1px red, 2px 2px 1px red;
+ }
+
+ .salmon-fish {
+  justify-content: center;
+  padding: 0px 0px 0px 150px;
+ }
+  
+ .bottom-container {
+  display: flex;
+  justify-content: space-evenly;
+ }
+  
+  
+  /* .main_content{ 
     color: aliceblue;
     padding: 90px; 
     width: 20px;
   }
   
-  h1{
-    color: aliceblue;
-    margin: auto;
-    position: absolute;
+  h1 {
+    color: rgb(26, 124, 209);
     top: 50px;
     right: 60px;
     text-shadow: 1px 1px 1px red, 2px 2px 1px red;
+    align-content: center;
     
   }
   
@@ -40,3 +68,7 @@ div {
    right: 60px;
     text-shadow: 1px 1px 1px red, 2px 2px 1px red;
   }
+
+  .body {
+    background: url();
+   } */
