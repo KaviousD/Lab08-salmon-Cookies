@@ -36,8 +36,8 @@ text-shadow: 1px 1px 1px red, 2px 2px 1px red;
  .nav-button {
   display: inline-block;
   padding: 10px;
-  background-color: #4CAF50;
-  color: white;
+  background-color: #fefefe;
+  color: rgb(232, 24, 24);
   text-align: center;
   text-decoration: none;
   border-radius: 5px;
